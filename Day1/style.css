@@ -1,0 +1,52 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #031321;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+.btns-container {
+    padding: 15px;
+    display: flex;
+    gap: 40px;
+}
+
+.neon-btn {
+    padding: 15px 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.btn-1 {
+    color: #018cfd;
+}
+
+.btn-1:hover {
+    color: #102b43;
+    background-color: #018cfd;
+    box-shadow: 0 0 10px #018cfd, 0 0 40px #018cfd, 0 0 80px #018cfd;
+}
+
+.btn-2 {
+    color: #f32191;
+}
+
+.btn-2:hover {
+    color: #3b0b2a;
+    background-color: #f32191;
+    box-shadow: 0 0 10px #f32191,  0 0 40px #f32191,  0 0 80px #f32191;
+}
+
+.btn-3 {
+    color: #3df321;
+}
+
+.btn-3:hover {
+    color: #184310;
+    background-color: #3df321;
+    box-shadow: 0 0 10px #3df321, 0 0 40px #3df321, 0 0 80px #3df321;
+}
