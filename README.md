@@ -2,9 +2,9 @@
 🤯 30DaysChallenge - 30 Days Extreme HTML &amp; CSS CHALLENGE 🤯
 
 
-Day 1/30 : Create Glowing Neon Buttons using HTML and CSS
+✔️Day 1/30 : Create Glowing Neon Buttons using HTML and CSS
 
-Day 2/30 : Neumorphism Login & Sign Up Form using HTML and CSS
+✔️Day 2/30 : Neumorphism Login & Sign Up Form using HTML and CSS
 
 Day 3/30 : Responsive Task Management Dashboard using HTML and CSS
 
