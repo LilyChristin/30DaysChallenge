@@ -8,7 +8,7 @@
 
 ✔️Day 3/30 : Responsive Task Management Dashboard using HTML and CSS
 
-Day 4/30 : Side Navigation Bar using HTML and CSS
+✔️Day 4/30 : Side Navigation Bar using HTML and CSS
 
 Day 5/30 : Social Media Icons with Tooltip on Hover using HTML and CSS
 
