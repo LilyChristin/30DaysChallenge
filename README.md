@@ -10,9 +10,9 @@
 
 ✔️Day 4/30 : Side Navigation Bar using HTML and CSS
 
-Day 5/30 : Social Media Icons with Tooltip on Hover using HTML and CSS
+✔️Day 5/30 : Social Media Icons with Tooltip on Hover using HTML and CSS
 
-Day 6/30 : Toggle Neumorphism Switch using HTML and CSS
+✔️Day 6/30 : Toggle Neumorphism Switch using HTML and CSS
 
 Day 7/30 : FAQ Accordion Section using HTML and CSS
 
