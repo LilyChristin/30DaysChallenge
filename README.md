@@ -14,7 +14,7 @@
 
 ✔️Day 6/30 : Toggle Neumorphism Switch using HTML and CSS
 
-Day 7/30 : FAQ Accordion Section using HTML and CSS
+✔️Day 7/30 : FAQ Accordion Section using HTML and CSS
 
 Day 8/30 : Game Card Hover Effects using HTML and CSS
 
