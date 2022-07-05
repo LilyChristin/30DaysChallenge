@@ -18,9 +18,9 @@
 
 ✔️Day 8/30 : Game Card Hover Effects using HTML and CSS
 
-Day 9/30 : Dropmorphism using HTML and CSS
+✔️Day 9/30 : Dropmorphism using HTML and CSS
 
-Day 10/30 : Responsive Image Gallery using HTML and CSS
+✔️Day 10/30 : Responsive Image Gallery using HTML and CSS
 
 Day 11/30 : Custom Radio Buttons using HTML and CSS
 
