@@ -22,7 +22,7 @@
 
 ✔️Day 10/30 : Responsive Image Gallery using HTML and CSS
 
-Day 11/30 : Custom Radio Buttons using HTML and CSS
+✔️Day 11
 
 Day 12/30 : Responsive Pricing Card tables using HTML and CSS
 
